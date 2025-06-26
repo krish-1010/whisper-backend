@@ -31,8 +31,8 @@ This is a local Python application to evaluate spoken German sentences using Ope
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/krish-1010/whisper-voice-processing
-cd whisper-voice-processing
+git clone https://github.com/krish-1010/whisper-backend
+cd whisper-backend
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
